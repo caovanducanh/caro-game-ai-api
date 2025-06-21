@@ -1,0 +1,16 @@
+{
+  "name": "caro-game-ai-api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel start"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.3"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.50.0"
+  }
+}
